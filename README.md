@@ -31,4 +31,6 @@ I used Tableau Public to create visualizations from the data I created from Pand
     6. Dashboard<br>
     
 ## Resuts<br>
-Follow the link to view my visualizations at Tableau Public:<br> https://public.tableau.com/profile/latisha.habersham#!/vizhome/Citi_Bike_Phenomenon/Phenomenonas?publish=yes
+Follow the link to view my visualizations at Tableau Public:<br> https://public.tableau.com/profile/latisha.habersham#!/vizhome/Citi_Bike_Phenomenon/Phenomenonas?publish=yes<br> 
+
+![Dashbaord](https://github.com/llhabers/Citi_Bike/blob/main/Resources/Images/Phenomena.png)
