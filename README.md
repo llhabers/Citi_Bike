@@ -3,10 +3,10 @@
 ![citi_bike](https://github.com/llhabers/Citi_Bike/blob/main/Resources/Images/citi-bike-station-bikes.jpeg)<br>
 
 ## Situation<br>
-I reviewed the New York Citi Bike Program, the largest bike sharing program in the United States to find some insightful information from their data. Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage. With Citi Bike's robust data, I decieded to build a set of data reports to provide show my findings.<br>
+I reviewed the New York Citi Bike Program, the largest bike sharing program in the United States to find some insightful information from their data. Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage. With Citi Bike's robust data, I decided to build a set of data reports to provide show my findings.<br>
 
 ## Task<br>
-I was task to aggregate data found in the Citi Bike Trip History Logs and find two unexpected phenomena. I created 2-5 visualizations for each discovered phenomena (4-10 total). I thought about the following questions.<br>
+I was task to aggregate data found in the Citi Bike Trip History Logs and find two unexpected phenomena. I created 2-5 visualizations for each discovered phenomenon (4-10 total). I thought about the following questions.<br>
 
     1. Which day had the highest amounts of trip durations?<br>
     2. What are the top 10 stations in the city for starting a journey?<br>
@@ -30,7 +30,13 @@ I used Tableau Public to create visualizations from the data I created from Pand
     5. Story<br>
     6. Dashboard<br>
     
-## Resuts<br>
-Follow the link to view my visualizations at Tableau Public:<br> https://public.tableau.com/profile/latisha.habersham#!/vizhome/Citi_Bike_Phenomenon/Phenomenonas?publish=yes<br> 
+## Results<br>
+Here are the phenomena I noticed;<br>
+
+    1. There were more female riders than male riders.<br>
+    2. There are more subscribers than users who use the Citi Bike app.<br>
+    3. October 11, 2015 was the day with the highest amounts of Trip Durations.<br>
+    
+For more visualizations, follow the link to view my visualizations at Tableau Public:<br> https://public.tableau.com/profile/latisha.habersham#!/vizhome/Citi_Bike_Phenomenon/Phenomenonas?publish=yes<br> 
 
 ![Dashbaord](https://github.com/llhabers/Citi_Bike/blob/main/Resources/Images/Phenomena.png)
