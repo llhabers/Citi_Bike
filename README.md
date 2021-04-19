@@ -15,5 +15,20 @@ I was task to aggregate data found in the Citi Bike Trip History Logs and find t
     5. Which bikes (by ID) are most likely due for repair or inspection in the timespan? (Most popular)<br>
 
 ## Action<br>
+I used pandas to concatanate two CSVs from the Citi Bikes Trip History Logs as well as cleaning up the data to help create visualization to show my phenomena. Some of the actions steps I used were;<br>
+
+    1. Loading, Reading & Converting CSVs
+    2. Renaming Columns
+    3. Concatining Columns (Join Function)<br>
+
+I used Tableau Public to create visualizations from the data I created from Pandas. In Tableau, I made the following visualization<br>
+
+    1. Bar Graphs<br>
+    2. Line Graphs<br>
+    3. Bubble Graphs<br>
+    4. Static Map<br>
+    5. Story<br>
+    6. Dashboard<br>
+    
 ## Resuts<br>
 Follow the link to view my visualizations at Tableau Public:<br> https://public.tableau.com/profile/latisha.habersham#!/vizhome/Citi_Bike_Phenomenon/Phenomenonas?publish=yes
